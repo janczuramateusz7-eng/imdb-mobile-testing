@@ -21,7 +21,7 @@ Testing was performed using a checklist approach and included:
 
 ## 🐞 Bugs
 
-Two bugs were identified and reported during testing.
+Bugs were identified and reported during testing.
 
 Each bug included:
 - environment
